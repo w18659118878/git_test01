@@ -9,5 +9,5 @@ hello jiaweige! hello git!
 hello jiaweige! hello git!
 hello jiaweige! hello git!
 hello jiaweige! hello git!
-hello jiaweige! hello git!
+hello jiaweige! hello git! hot-fix test
 
